@@ -1,0 +1,2 @@
+learn tools.
+   ex: latex
